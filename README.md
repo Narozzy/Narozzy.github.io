@@ -1,2 +1,3 @@
 # Narozzy.github.io
-This is the site for Noah Rozelle's github page
+## Noah Rozelle - Software Engineering (ITCS - 3155)
+Throughout this course, my team and I will be creating a web app
